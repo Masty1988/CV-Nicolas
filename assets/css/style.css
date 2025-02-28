@@ -72,6 +72,9 @@ footer{
     justify-content: space-between;
     font-size: 1.5rem;
 }
+.rs a:hover{
+    opacity: 0.8;
+}
 .title{
     color:#17abb3 ;
     font-family:'Lato', sans-serif;
